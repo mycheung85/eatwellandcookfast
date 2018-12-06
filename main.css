@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=News+Cycle|Patua+One|Shadows+Into+Light');
+
+/* font-family: 'Shadows Into Light', cursive;
+font-family: 'Patua One', cursive;
+font-family: 'News Cycle', sans-serif; */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  border: 5px solid black;
+  margin: 10px 10px;
+
+}
+
+#meal { 
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  /* margin: 15px 15px;
+  margin-top: 20px;
+  margin-bottom: 20px; */
+}
+
+#meal-header {
+  margin-bottom: 20px;
+  padding-bottom: 20px;
+}
+
+#meal-breakfast {
+  background-color: #34A853;
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#meal-lunch {
+  background-color: #FBBC05;
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+
+#meal-dinner {
+  background-color: #EA4335;
+  margin: 15px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: 'Patua One', cursive;
+  font-size: 50px;
+  margin: 10px;
+  padding: 20px; 
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Patua One', cursive;
+  font-size: 25px;
+  text-align: center;
+  padding: 15px;
+  margin-bottom: 0 auto !important;
+}
+
+p {
+  font-family: 'News Cycle', sans-serif;
+  font-size: 20px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  padding: 5px;
+}
+
+ul li {
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 20px;
+  list-style: none; 
+  padding: 10px 10px;
+  margin-left: 60px;
+  
+}
+
+
+
+
+
+
